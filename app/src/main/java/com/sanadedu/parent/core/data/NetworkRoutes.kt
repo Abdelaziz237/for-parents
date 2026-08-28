@@ -1,0 +1,27 @@
+package com.sanadedu.parent.core.data
+
+object NetworkRoutes {
+    const val BASE_URL = "https://api.sanadedu.com/api/v1/"
+    const val STUDENT = "student/"
+    const val PARENTS = "parents/"
+    const val STUDENTS = "students/"
+    const val ATTENDANCE = "attendance/"
+    const val CARD = "card/"
+    const val CARDS = "cards/"
+    const val ANNOUNCEMENTS = "/announcements/"
+    const val EXAMS = "/exams/"
+    const val CENTERS = "/centers/"
+    const val CARD_COURSES = "card-courses/"
+    const val TUTOR_COURSES = "/tutor-courses/"
+    const val GROUPS = "groups/"
+    const val AUTH = "auth/"
+    const val LOGIN = "login/"
+    const val VERIFY_EMAIL = "verify-email/"
+    const val REGISTER = "register/"
+    const val VERIFY_OTP = "verify-otp/"
+    const val FORGOT_PASSWORD = "forgot-pass/"
+    const val RESEND_OTP = "resend-otp/"
+    const val UPLOAD = "upload/"
+    const val IMAGES = "images/"
+    const val DETAILS = "details/"
+}
