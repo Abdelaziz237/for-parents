@@ -19,7 +19,6 @@ Native Android, written in Kotlin with Jetpack Compose, built on Clean Architect
 |---|---|
 | Language | Kotlin |
 | UI | Jetpack Compose, Material 3 |
-| Dependency Injection | Dagger Hilt |
 | Networking | Ktor Client (CIO/OkHttp engine), kotlinx.serialization, Gson |
 | Local persistence | Jetpack DataStore (Preferences) |
 | Image loading | Glide |
